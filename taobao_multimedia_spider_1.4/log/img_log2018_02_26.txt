@@ -1,0 +1,2 @@
+'Taobao_Img' object has no attribute 'proxy'
+'Taobao_Img' object has no attribute 'proxy'

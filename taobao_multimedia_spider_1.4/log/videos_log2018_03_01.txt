@@ -1,0 +1,4 @@
+HTTPSConnectionPool(host='tbm.alicdn.com', port=443): Max retries exceeded with url: /Wqpgfx4Io25w6cCse6U/EbddHM5ZUrDdNJbKJYj%40%40hd.mp4 (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 504 Proxy Gateway Timeout',)))
+HTTPSConnectionPool(host='detail.tmall.com', port=443): Max retries exceeded with url: /item.htm?&id=557156122382 (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 429 Too Many Requests',)))
+HTTPSConnectionPool(host='detail.tmall.com', port=443): Max retries exceeded with url: /item.htm?&id=557156122382 (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 429 Too Many Requests',)))
+HTTPSConnectionPool(host='detail.tmall.com', port=443): Max retries exceeded with url: /item.htm?&id=557156122382 (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 429 Too Many Requests',)))

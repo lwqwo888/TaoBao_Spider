@@ -1,0 +1,4 @@
+HTTPSConnectionPool(host='cloud.video.taobao.com', port=443): Max retries exceeded with url: /play/u/896809771/p/1/e/6/t/1/50041550925.mp4 (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 503 Service Unavailable',)))
+HTTPSConnectionPool(host='tbm.alicdn.com', port=443): Max retries exceeded with url: /61uEmfZFuSHFdvmqfxW/mWEAMDdmyjbjDUVFa9k%40%40hd.mp4 (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 504 Proxy Gateway Timeout',)))
+HTTPSConnectionPool(host='cloud.video.taobao.com', port=443): Max retries exceeded with url: /play/u/896809771/p/1/e/6/t/1/50041550925.mp4 (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+HTTPSConnectionPool(host='cloud.video.taobao.com', port=443): Max retries exceeded with url: /play/u/896809771/p/1/e/6/t/1/50041550925.mp4 (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),))

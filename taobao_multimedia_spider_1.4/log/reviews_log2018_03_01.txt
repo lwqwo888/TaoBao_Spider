@@ -1,0 +1,2 @@
+HTTPSConnectionPool(host='img.alicdn.com', port=443): Max retries exceeded with url: /imgextra/i3/0/TB26nnYXHZnBKNjSZFrXXaRLFXa_!!0-rate.jpg (Caused by ProxyError('Cannot connect to proxy.', error('Tunnel connection failed: 429 Too Many Requests',)))
+('Connection aborted.', BadStatusLine("''",))

@@ -1,0 +1,3 @@
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/imgextra/i2/0/TB2MaBbaCtYBeNjSspaXXaOOFXa_!!0-rate.jpg (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.

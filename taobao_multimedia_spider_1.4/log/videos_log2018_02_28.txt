@@ -1,0 +1,31 @@
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: Tunnel connection failed: 504 Proxy Gateway Timeout.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: Tunnel connection failed: 504 Proxy Gateway Timeout.
+Cannot connect to proxy. Socket error: Tunnel connection failed: 504 Proxy Gateway Timeout.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: Tunnel connection failed: 504 Proxy Gateway Timeout.
+Cannot connect to proxy. Socket error: Tunnel connection failed: 504 Proxy Gateway Timeout.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: Tunnel connection failed: 503 Service Unavailable.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol

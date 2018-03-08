@@ -1,0 +1,27 @@
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/bao/uploaded/i1/2226769255/TB2Lt.Oc9fD8KJjSszhXXbIJFXa_!!2226769255.jpg (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7eff94a25410>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/bao/uploaded/i1/2122292673/TB2ztVMjhxmpuFjSZFNXXXrRXXa_!!2122292673.jpg (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/bao/uploaded/i3/3037385922/TB1zc5tbvNNTKJjSspeXXaSwpXa_!!0-item_pic.jpg (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/imgextra/i2/1751740828/TB2e4EDazgy_uJjSZPxXXanNpXa_!!1751740828.jpg (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol

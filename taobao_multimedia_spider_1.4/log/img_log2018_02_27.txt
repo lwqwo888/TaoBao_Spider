@@ -1,0 +1,9 @@
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+[Errno 8] _ssl.c:510: EOF occurred in violation of protocol

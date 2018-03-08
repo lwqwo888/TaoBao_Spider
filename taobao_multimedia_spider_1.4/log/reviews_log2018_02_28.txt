@@ -1,0 +1,13 @@
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/imgextra/i4/0/TB2yT3CX1uSBuNjSsplXXbe8pXa_!!0-rate.jpg (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f873a949890>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+Cannot connect to proxy. Socket error: [Errno 104] Connection reset by peer.
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/imgextra/i2/0/TB2nD5Hn46I8KJjSszfXXaZVXXa_!!0-rate.jpg (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+HTTPConnectionPool(host='n10.t.16yun.cn', port=6442): Max retries exceeded with url: http://img.alicdn.com/imgextra/i4/0/TB2_aWEnwnH8KJjSspcXXb3QFXa_!!0-rate.jpg (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
