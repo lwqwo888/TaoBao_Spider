@@ -1,0 +1,15 @@
+*.pyc
+*/taobao_multimedia_datas/
+taobao_multimedia_datas/
+taobao_multimedia_datas/*
+*.jpg
+*.jpeg
+*.mp4
+*.png
+*.gif
+*.SS2
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
