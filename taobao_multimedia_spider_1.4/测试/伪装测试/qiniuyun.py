@@ -11,7 +11,8 @@ headers = {
     # "referer": "https://item.taobao.com/item.htm?spm=a219r.lmn002.14.174.6f516358W81jq9&id=561495525977&ns=1&abbucket=16",
     "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
 }
-url = "http://img01.taobaocdn.com/imgextra/i1/414224286/TB2w65WaFXXXXcpXXXXXXXXXXXX-414224286.png"
+# url = "https://t11img.yangkeduo.com/images/2018-02-28/90a4190a764cf19e0899ba01989da209.jpeg"
+url = "https://img01.taobaocdn.com/imgextra/i1/414224286/TB2w65WaFXXXXcpXXXXXXXXXXXX-414224286.png"
 # url = "http://dsc.taobaocdn.com/i8/550/150/557156122382/TB13lKSXSYTBKNjSZKb8qtJ8pla.desc%7Cvar%5Edesc%3Bsign%5Eb9b931bf2a0ad0b5a7d20095043315cc%3Blang%5Egbk%3Bt%5E1519630932"
 proxies = {'https': 'http://16SBYYUY:658666@n10.t.16yun.cn:6442', 'http': 'http://16SBYYUY:658666@n10.t.16yun.cn:6442'}
 
